@@ -42,7 +42,7 @@ except URLError as e:
 # json version then normalized
 
 
-streamlit.stop()
+##### streamlit.stop()
 
 # import snowflake.connector
 
